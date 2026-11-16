@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+pykrx
+python-dotenv
+jupyter
