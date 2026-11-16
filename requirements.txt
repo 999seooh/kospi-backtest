@@ -1,6 +1,6 @@
 pandas
 numpy
 matplotlib
-pykrx
+pykrx>=1.2.9
 python-dotenv
 jupyter
